@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Kaiz
 
-<!--
-**Diankaiz/Diankaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I am currently learning Rust while continuing to practice Go, C/C++, C#, Java, Python, and Ruby  
+- My goal is to become a skilled developer and build real-world projects  
+- I enjoy solving problems and exploring new tools  
 
-Here are some ideas to get you started:
+## Skills and Tools
+- Programming: Rust (still learning), Go, C, C++, C#, Java, Python, Ruby  
+- Tools: Git, GitHub, VS Code, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Deepening my knowledge of Rust  
+- Exploring best practices in Git and GitHub  
+- Building a foundation in software development principles  
