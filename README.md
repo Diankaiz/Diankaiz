@@ -7,7 +7,7 @@
 
 ## Skills and Tools
 - Programming (currently learning): Rust  
-- Programming (still not learned): Go, C, C++, C#, Java, Python, Ruby  
+- Programming (still not learned): Go, C, C++, C#, Java, Python, Ruby, MySQL  
 - Tools: Git, GitHub, VS Code, Linux  
 
 ## Currently Learning
