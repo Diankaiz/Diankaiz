@@ -1,12 +1,13 @@
 # Hello, I'm Kaiz
 
 ## About Me
-- I am currently learning Rust while continuing to practice Go, C/C++, C#, Java, Python, and Ruby  
+- I am currently learning Rust  
 - My goal is to become a skilled developer and build real-world projects  
 - I enjoy solving problems and exploring new tools  
 
 ## Skills and Tools
-- Programming: Rust (still learning), Go, C, C++, C#, Java, Python, Ruby  
+- Programming (currently learning): Rust  
+- Programming (still not learned): Go, C, C++, C#, Java, Python, Ruby  
 - Tools: Git, GitHub, VS Code, Linux  
 
 ## Currently Learning
