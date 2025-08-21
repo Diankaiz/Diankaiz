@@ -8,9 +8,9 @@
 ## Skills and Tools
 - Programming (currently learning): Rust  
 - Programming (still not learned): Go, C, C++, C#, Java, Python, Ruby, MySQL  
-- Tools: Git, GitHub, VS Code, Linux  
+- Tools: Git (still learning), GitHub (still learning), VS Code, Linux  
 
 ## Currently Learning
 - Deepening my knowledge of Rust  
-- Exploring best practices in Git and GitHub  
+- Improving my Git and GitHub skills  
 - Building a foundation in software development principles  
